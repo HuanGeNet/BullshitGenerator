@@ -3,7 +3,9 @@
 
 原项目地址 https://github.com/menzi11/BullshitGenerator
 
-网页版地址 https://suulnnka.github.io/BullshitGenerator/index.html
+网页版地址1 https://suulnnka.github.io/BullshitGenerator/index.html
+ 
+网页版地址2 https://huangenet.github.io/BullshitGenerator/.
 
 修改:  
 1.设计并移植至浏览器  
